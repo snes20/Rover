@@ -1,0 +1,6 @@
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars\bin\Debug\RoverOnMars.exe.config
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars\bin\Debug\RoverOnMars.exe
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars\bin\Debug\RoverOnMars.pdb
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars\obj\Debug\RoverOnMars.csprojResolveAssemblyReference.cache
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars\obj\Debug\RoverOnMars.exe
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars\obj\Debug\RoverOnMars.pdb

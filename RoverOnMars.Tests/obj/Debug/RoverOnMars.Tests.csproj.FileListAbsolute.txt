@@ -1,0 +1,17 @@
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars.Tests\bin\Debug\RoverOnMars.Tests.dll
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars.Tests\bin\Debug\RoverOnMars.Tests.pdb
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars.Tests\bin\Debug\Moq.dll
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars.Tests\bin\Debug\RoverOnMars.exe
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars.Tests\bin\Debug\RoverOnMars.pdb
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars.Tests\bin\Debug\Moq.pdb
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars.Tests\bin\Debug\Moq.xml
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars.Tests\obj\Debug\RoverOnMars.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars.Tests\obj\Debug\RoverOnMars.Tests.dll
+C:\Users\Frank\source\GitLab\mr-tech-test\RoverOnMars\RoverOnMars.Tests\obj\Debug\RoverOnMars.Tests.pdb
