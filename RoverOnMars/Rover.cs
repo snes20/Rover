@@ -106,18 +106,18 @@ namespace TechTest
             Console.WriteLine($"Rover is now at {roverPositionX}, {roverPositionY} - facing {roverFacing}\r\n");
         }
 
-        private static bool IsValidMove(int currentValue, bool isAdding)
+        public static bool IsValidMove(int currentValue, bool isAdding)
         {
             if (isAdding)
             {
-                if (currentValue < Constants.Movements.MAX_GRID_VALUE)
+                if (currentValue < Constants.Movements.MAX_GRID_VALUE && currentValue >= Constants.Movements.MIN_GRID_VALUE)
                     return true;
                 else
                     return false;
             }
             else
             {
-                if (currentValue == Constants.Movements.MIN_GRID_VALUE)
+                if (currentValue <= Constants.Movements.MIN_GRID_VALUE && currentValue < Constants.Movements.MAX_GRID_VALUE)
                     return false;
                 else
                     return true;
